@@ -14,6 +14,15 @@ I’m a passionate engineer with **4+ years of experience** crafting high-perfor
 
 ---
 
+## 💻 **Technical Toolkit**  
+**Frontend**: React, TypeScript, Next.js, Redux, TailwindCSS  
+**Backend**: Python (Django/Flask), Node.js, RESTful APIs, GraphQL  
+**Cloud & DevOps**: AWS (Lambda, S3), Docker, Jenkins, GitHub Actions  
+**Testing**: Jest, Selenium, PyTest  
+**Databases**: MySQL, MongoDB  
+
+---
+
 ## 🏆 **Featured Projects**  
 
 ### **FinEase** | [GitHub](https://bitbucket.org/finease/frontend/src/dev/)  
@@ -30,15 +39,6 @@ I’m a passionate engineer with **4+ years of experience** crafting high-perfor
 *Enhanced open-source data visualization for global researchers.*  
 - **Tech**: React, Next.js, WebSockets  
 - **Impact**: Replaced static charts with interactive features, accelerating dataset analysis by **40%**.  
-
----
-
-## 💻 **Technical Toolkit**  
-**Frontend**: React, TypeScript, Next.js, Redux, TailwindCSS  
-**Backend**: Python (Django/Flask), Node.js, RESTful APIs, GraphQL  
-**Cloud & DevOps**: AWS (Lambda, S3), Docker, Jenkins, GitHub Actions  
-**Testing**: Jest, Selenium, PyTest  
-**Databases**: MySQL, MongoDB  
 
 ---
 
